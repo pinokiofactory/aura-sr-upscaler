@@ -5,7 +5,7 @@ module.exports = {
       method: "shell.run",
       params: {
         message: [
-          "git clone https://huggingface.co/spaces/gokaygokay/AuraSR-v2 app",
+          "git clone https://huggingface.co/spaces/cocktailpeanut/AuraSR-v2 app",
         ]
       }
     },
