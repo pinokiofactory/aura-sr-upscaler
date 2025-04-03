@@ -1,6 +1,6 @@
 const path = require('path')
 module.exports = {
-  version: "2.0",
+  version: "3.0",
   title: "aura-sr-upscaler",
   description: "AuraSR-v2 - An open reproduction of the GigaGAN Upscaler from fal.ai https://huggingface.co/spaces/gokaygokay/AuraSR-v2",
   icon: "icon.webp",
